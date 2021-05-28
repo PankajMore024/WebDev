@@ -1,0 +1,163 @@
+
+.h1 {
+
+  text-align: center;
+  margin-top: 300px;
+  font-style: italic;
+  font-size: 600%;
+  color: #1eae98;
+}
+.hanu {
+  border-style: double;
+  border-radius: 550px;
+  border-color: white;
+  display: inline-block;
+  width: 100px;
+  position: absolute;
+  left: 10%;
+  top: 70px;
+}
+li {
+  display: inline;
+}
+.nav1 {
+  position: absolute;
+  top: 100px;
+  right: 30%;
+  padding: 20px;
+  text-decoration: none;
+  font-family: sans-serif;
+  color: #8e9775;
+}
+.nav2 {
+  position: absolute;
+  top: 100px;
+  right: 20%;
+  padding: 20px;
+  text-decoration: none;
+  font-family: sans-serif;
+  color: #8e9775;
+}
+.nav3 {
+  position: absolute;
+  top: 100px;
+  right: 10%;
+  padding: 20px;
+  text-decoration: none;
+  font-family: sans-serif;
+  color: #8e9775;
+}
+.h3 {
+  text-align: center;
+  font-style: italic;
+  font-size: 200%;
+  color: #1eae98;
+}
+
+.container1 {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  background-color: #e4f9f5;
+}
+
+.container2 {
+  margin-top: 1000px;
+}
+
+.container3 {
+  background-color: #e4f9f5;
+  height: 200px;
+}
+
+.cloud {
+  width: 10%;
+  position: absolute;
+  left: 100px;
+  top: 550px;
+}
+.cloud2 {
+  width: 15%;
+  position: absolute;
+  right: 50px;
+  top: 250px;
+}
+.mountain {
+  width: 50%;
+  margin-top: 100px;
+}
+.me {
+  margin-top: 5%;
+  width: 10%;
+}
+.p {
+  width: 50%;
+  text-align: center;
+  font-family: sans-serif;
+  color: #8e9775;
+
+}
+.hmm {
+  width: 100%;
+}
+.wow{
+  width: 30%;
+  text-align: center;
+  color: #1eae98;
+  font-family: sans-serif;
+}
+hr {
+  width: 10%;
+  color: #11999e;
+  border-style: dotted;
+  border-width: thick;
+  border-right: 0px;
+  border-left: 0px;
+  border-bottom: 0px;
+}
+.wtf {
+  text-align: center;
+  font-size: 50px;
+  color: #34656d;
+}
+
+.design {
+  text-align: left;
+  padding: 20px;
+  font-size: 20px;
+  color: #1eae98;
+  font-family: sans-serif;
+}
+.info {
+  width: 300px;
+  text-align: left;
+  padding: 20px;
+  font-family: sans-serif;
+  color: #8e9775;
+}
+.button {
+  border: none;
+  text-decoration: none;
+  color: #34656d;
+  background-color: #00ead3;
+  width: 200px;
+  padding: 15px;
+  border-radius: 3px;
+}
+.sm {
+  position: relative;
+  top: 30px;
+  text-decoration: none;
+  padding: 5%;
+  font-family: sans-serif;
+  color: #8e9775;
+}
+.last {
+  position: relative;
+  top: 60px;
+  font-family: sans-serif;
+  color: #8e9775;
+  word-spacing: 3px;
+  letter-spacing: 1px;
+
+}
